@@ -4,12 +4,17 @@ body{
     justify-content: center;
 }
 .menu{
+    background-color: rgba(196, 177, 177, 0.774);
     border: solid black;
     display: flex;
     align-items: center;
     flex-direction: column;
+    border-radius: 30px;
 }
 .listado{
     font-size: 20px;
     margin: 0px 10px 0px 0px;
+}
+h2{
+    margin-left: 10px;
 }
